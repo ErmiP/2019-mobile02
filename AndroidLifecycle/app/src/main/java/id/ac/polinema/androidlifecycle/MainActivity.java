@@ -24,4 +24,5 @@ public class MainActivity extends AppCompatActivity {
 		super.onStop();
 		Toast.makeText(this, "App on Stop", Toast.LENGTH_SHORT).show();
 	}
+
 }
